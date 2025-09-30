@@ -1,27 +1,27 @@
 const MyArticles = [
     {
         id: 1,
-        title: "Il One Piece esiste veramente? Noi lo sappiamo! - ESCLUSIVO",
+        title: " - ESCLUSIVO - Il One Piece esiste veramente? Noi lo sappiamo! - ",
     },
     {
         id: 2,
-        title: "Tanjiro diveterà il pilastro del fuoco o dell'acqua? Lo scopriremo nel 2029. - INDISCREZIONI",
+        title: " - INDISCREZIONI - Tanjiro diveterà il pilastro del fuoco o dell'acqua? Lo scopriremo nel 2029. - ",
     },
     {
         id: 3,
-        title: "Ma voi, l'avete VERAMENTE capito Attack on Titan? - REPORTAGE",
+        title: " - REPORTAGE - Ma voi, l'avete VERAMENTE capito Attack on Titan? - ",
     },
     {
         id: 4,
-        title: "Ma perchè i videogiochi ispirati agli anime fanno tutti schifo? - INCHIESTA",
+        title: " - INCHIESTA - Ma perchè i videogiochi ispirati agli anime fanno tutti schifo? - ",
     },
     {
         id: 5,
-        title: "Epifania globale: le persone hanno realizzato che Sword Art Online è spazzatura. - SCOOP MONDIALE",
+        title: " - SCOOP MONDIALE - Epifania globale: le persone hanno realizzato che Sword Art Online è spazzatura. - ",
     },
     {
         id: 6,
-        title: "Lo strano rapporto fra Hisoka e Illumi ha avuto un'evoluzione? Scoop! - FOTO ESCLUSIVE",
+        title: " - FOTO ESCLUSIVE - Lo strano rapporto fra Hisoka e Illumi ha avuto un'evoluzione? Scoop! - ",
     }
 ];
 
