@@ -1,7 +1,7 @@
 const MyArticles = [
     {
         id: 1,
-        title: "Il One Piece esiste veramente? Noi lo sappiamo!  - ESCLUSIVO",
+        title: "Il One Piece esiste veramente? Noi lo sappiamo! - ESCLUSIVO",
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ const MyArticles = [
     },
     {
         id: 5,
-        title: "Epifania globale: le persone hanno realizzato che Sword Art Online è spazzatura - SCOOP MONDIALE",
+        title: "Epifania globale: le persone hanno realizzato che Sword Art Online è spazzatura. - SCOOP MONDIALE",
     },
     {
         id: 6,
