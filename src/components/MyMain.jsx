@@ -21,6 +21,7 @@ const MyMain = () => {
                 </ul>
                 <form onSubmit={addArticles} className="onlyForm">
                     <input type="text" placeholder="Nuovo articolo" value={newArticles} onChange={e => {setNewArticles(e.target.value)}}/>
+                    <button type="submit">Inserisci un nuovo articolo</button>
                 </form>
             </main>
         </>
