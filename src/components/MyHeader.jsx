@@ -4,7 +4,7 @@ const MyHeader = () => {
         <>
             <header>
                 <div className="onlyHeader">
-                    <h1>Questo è l'header</h1>
+                    <h1>Gli articoli di oggi:</h1>
                 </div>
             </header>
         </>
